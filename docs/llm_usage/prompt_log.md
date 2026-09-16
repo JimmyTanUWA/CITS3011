@@ -75,6 +75,18 @@ ok log every single prompt for me, including this one in a file.
 Response: created this file, plus `docs/project_spec.md` (text transcription of the
 spec), `.gitignore`, `requirements.txt`, and committed them to the branch.
 
+### Prompt 7 (~12:22)
+
+```
+find CITS3011 Project report doc. fill in the template first. note to marker that the template is generated. get my feet wet first.
+```
+
+Response: found the blank Google Doc "CITS3011 Project report" in Drive; created a
+sibling doc "CITS3011 Project report (template)" and `docs/report_template.md`
+containing a rubric-mapped skeleton: headings, bracketed guidance, empty results
+tables, a note to the marker that the skeleton was LLM-generated, and a submission
+checklist. No report prose was written (the unit forbids LLM report writing).
+
 ---
 
 ## ChatGPT advisor sessions
