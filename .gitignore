@@ -1,0 +1,21 @@
+# virtual environments
+.venv/
+venv/
+env/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# scratch output (keep committed results in results/)
+*.tmp
+*.log

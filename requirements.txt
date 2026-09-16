@@ -1,0 +1,14 @@
+# Packages allowed by the CITS3011 2026 project spec (docs/project_spec.md).
+# NOTE: replace this file with the official requirements.txt from
+# the_diplomacy_2026.zip once it is added to the repo, so versions match
+# the marking environment. Unpinned here on purpose until then.
+# (Resolved on 2026-09-16: diplomacy 1.1.2, networkx 3.6.1, numpy 2.4.6,
+#  scipy 1.17.1, scikit-learn 1.9.1, simpleai 0.8.3, timeout-decorator 0.5.0, tqdm 4.70.1)
+diplomacy
+tqdm
+networkx
+numpy
+scipy
+scikit-learn
+timeout-decorator
+simpleai
